@@ -1,6 +1,6 @@
 # What is CoinBeat?
 
-CoinBeat is a market tracking tool for the novice crypto currency enthusiast. The application introduces users to the top coins (by market cap), enabling users to easily discover and learn their names, symbols, and price action for the last 24 hrs, 30 days, 3 months & 1 year. If the user already knows which coin they would like to learn more about, they can easily enter the coin name or symbol into the search bar to quickly access the coins information.
+CoinBeat is a market tracking tool for novice crypto currency enthusiasts. The application introduces users to the top coins (by market cap), enabling users to easily discover and learn their names, symbols, and price action for the last 24 hrs, 30 days, 3 months, and 1 year. If the user already knows the coin they would like to learn more about, they can easily enter it's name or symbol into the search bar to quickly access the coin's information.
 
 Signed up users gain access to special features such as, adding their favourite coins to their personal watch list.
 
